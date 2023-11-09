@@ -37,7 +37,7 @@ If you're unable to find answers by using self-help resources, you can open an o
 
 1. Sign in to the [Azure portal](https://portal.azure.com).
 
-1. If you have access to multiple tenants, select the **Settings** icon in the top menu to switch to your Azure AD B2C tenant from the **Directories + subscriptions** menu.
+1. If you have access to multiple tenants, select the **Settings** icon in the top menu to switch to your Azure AD Enterprise tenant from the **Directories + subscriptions** menu.
      
 1. In the Azure portal, search for and select **Microsoft Entra ID**.
 
